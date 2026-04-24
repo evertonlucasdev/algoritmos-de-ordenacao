@@ -25,9 +25,10 @@ algoritmos-de-ordenacao/
 
 ## Como rodar
 
-Usando GCC:
+Exemplo com QuickSort:
 
 ```
+cd quicksort
 gcc quickSort.c -o quickSort
 ./quickSort
 ```
