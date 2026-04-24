@@ -14,12 +14,9 @@ Todos implementados do zero em C, focando em entender como cada um funciona na p
 
 ```
 algoritmos-de-ordenacao/
- ├── quicksort/
- │    └── quickSort.c
- ├── mergesort/
- │    └── mergeSort.c
- ├── heapsort/
- │    └── heapSort.c
+ ├── quickSort.c
+ ├── mergeSort.c
+ ├── heapSort.c
  └── README.md
 ```
 
@@ -28,7 +25,6 @@ algoritmos-de-ordenacao/
 Exemplo com QuickSort:
 
 ```
-cd quicksort
 gcc quickSort.c -o quickSort
 ./quickSort
 ```
